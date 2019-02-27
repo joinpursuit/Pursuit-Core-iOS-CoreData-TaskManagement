@@ -10,4 +10,4 @@ When an Task is selected the app segues to show all the Items of that selected T
 
 ## Gif 
 
-![]()
+![task-management-app](https://github.com/joinpursuit/Pursuit-Core-iOS-CoreData-TaskManagement/blob/master/Images/task-management-app.gif)
